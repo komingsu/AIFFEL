@@ -2,3 +2,5 @@
 *checkpoint.ipynb
 *.csv
 *.log
+*.jpg
+*.h5
