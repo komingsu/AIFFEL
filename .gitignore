@@ -1,4 +1,6 @@
 data/*
+.idea/*
+*.ipynb_checkpoints*
 *checkpoint.ipynb
 *.csv
 *.log
@@ -9,5 +11,5 @@ data/*
 *.png
 *.data-00000-of-00001
 *.index
-*.ipynb
+
 11_GAN/practice/training_checkpoints/checkpoint
