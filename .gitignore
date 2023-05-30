@@ -11,5 +11,9 @@ data/*
 *.png
 *.data-00000-of-00001
 *.index
-
+*.ckpt
+*.pth
+*.pyc
+*Untitled*
+*tfevents*
 11_GAN/practice/training_checkpoints/checkpoint
