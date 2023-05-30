@@ -1,0 +1,8 @@
+model_hparams:
+  act_fn_name: relu
+  num_classes: 10
+model_name: GoogLeNet
+optimizer_hparmas:
+  lr: 0.001
+  weight_decay: 0.0001
+optimizer_name: Adam
