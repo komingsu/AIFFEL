@@ -14,7 +14,6 @@
 *.ckpt
 *.pth
 *.pyc
-*Untitled*
 *tfevents*
 11_GAN/practice/training_checkpoints/checkpoint
 *cityscapes*
