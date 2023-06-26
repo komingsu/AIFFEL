@@ -27,3 +27,10 @@
 *CIFAR10*
 *Transformer*.pb
 *Transformer*.txt
+00_PR/Transformer/1_구어체(1).xlsx
+00_PR/Transformer/1_구어체(2).xlsx
+00_PR/Transformer/ted_hrlr_translate_pt_en_converter.zip
+00_PR/Transformer/ted_hrlr_translate_pt_en_converter/assets/en_vocab.txt
+00_PR/Transformer/ted_hrlr_translate_pt_en_converter/assets/pt_vocab.txt
+00_PR/Transformer/ted_hrlr_translate_pt_en_converter/saved_model.pb
+*.hdf5
